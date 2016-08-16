@@ -1,2 +1,2 @@
 # hello-particle
-particle 101
+particle 101 - Intro particle
